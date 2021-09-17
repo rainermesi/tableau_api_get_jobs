@@ -2,4 +2,4 @@
 
 * Get a list of Running / Pending jobs
 * Get details for each job (name, type, owner etc)
-* Cancel a specific job by jobId
+* Cancel a specific job by job Id
